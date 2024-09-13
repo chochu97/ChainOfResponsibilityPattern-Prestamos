@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\bin\Debug\ChainResponsibilityPrestamo.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\bin\Debug\ChainResponsibilityPrestamo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\bin\Debug\ChainResponsibilityPrestamo.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\obj\Debug\ChainResponsibilityPrestamo.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\obj\Debug\ChainResponsibilityPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\obj\Debug\ChainResponsibilityPrestamo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ChainOfResponsibilityPatron\ChainResponsibilityPrestamo\obj\Debug\ChainResponsibilityPrestamo.pdb
